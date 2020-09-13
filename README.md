@@ -1,3 +1,3 @@
 # bitbuckets-github-intro
 
-Ignore this file, go to "filetoedit.txt"
+Ignore this file, go to "filetoedit.txt".
