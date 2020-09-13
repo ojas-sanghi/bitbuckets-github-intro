@@ -4,7 +4,7 @@ Add a few lines, put your name, and write what pets you have(I'm piggy backing o
 
 Write it in this format:
 
-`Ojas - None :(`
+Ojas - None :(
 
 Do it on the next line:  
 
